@@ -3,6 +3,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+
 
 ## Visão Geral
 Como parte das atividades práticas da disciplina de Programação Web, ministrada pelo professor Joan, foi desenvolvido um site responsivo com o framework Bootstrap. A proposta era criar uma interface web dinâmica e intuitiva, aproveitando as classes e componentes pré-definidos do Bootstrap para construir uma página que se adapta automaticamente a diferentes resoluções de tela, oferecendo uma experiência otimizada para o usuário em desktops, tablets e smartphones.
@@ -25,6 +27,7 @@ As seguintes tecnologias foram utilizadas neste projeto:
 
 - **HTML5** para a estrutura do site.
 - **CSS3** para o estilo e design da página.
+- **Javascript** manipular o DOM.
 - **Bootstrap** para layout, componentes e responsividade.
 
 ## Capturas de Tela
